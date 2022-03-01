@@ -1,5 +1,7 @@
 {
   "dependencies": {
+    "@draftable/compare-api": "^1.4.0",
+    "axios": "^0.26.0",
     "express": "^4.17.3",
     "formidable": "^2.0.1"
   }
